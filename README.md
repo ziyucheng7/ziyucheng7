@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ziyu Cheng. I am a graduate student in CMSE department, Michigan State University.  
-Welcome to my Github Homepage!
+My name is Ziyu Cheng. I am a graduate student in CMSE department, Michigan State University.   
+
+Welcome to my Github Homepage! 😉
